@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Quentin CHAPEL, an IT student in France.
+
+Curious, I'm always looking for new technologies to study.
+
+Currently learning IoT based applications, I'm looking for a Work experience contract with my University.
+
+While I use Django, Docker and React for Web app development, I also love to use figma to design applications.
+
+Interesting ongoing and done projects are pinned!
+
+Have a good day! 👋
