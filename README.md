@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Quentin CHAPEL, an IT student in France.
+I'm Quentin CHAPEL, an IT engineer in France.
 
-Curious, I'm always looking for new technologies to study.
-
-Currently learning IoT based applications, I'm looking for an apprenticeship with my University.
+Curious, I'm always looking for new technologies to study, whether it is Iot based technologies such as Arduino or Web one such as React or Django.
 
 While I use Django, Docker and React for Web app development, I also love to use figma to design applications.
 
