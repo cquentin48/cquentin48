@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Quentin CHAPEL, an IT engineer in France.
+I'm an IT engineer in France.
 
 Curious, I'm always looking for new technologies to study, whether it is Iot based technologies such as Arduino or Web one such as React or Django.
 
